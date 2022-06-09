@@ -1,6 +1,6 @@
-### Hi there 👋. My name is Piotr Kopycki and I come from Poland.
+### Hi there 👋. My name is Piotr Kopycki.
 
-I am a student of IT with a specialization in artificial intelligence at the Adam Mickiewicz University. I graduated from the Poznań University of Technology. I also work in R&D team in ITTI.
+I am a student of IT with a specialization in artificial intelligence at the Adam Mickiewicz University. I graduated from the Poznań University of Technology. I also work as Junior Java Developer in Blue Energy.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Aoxter&theme=default&include_all_commits=true&show_icons=true&count_private=true)
 
